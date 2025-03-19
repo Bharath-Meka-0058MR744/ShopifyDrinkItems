@@ -3,6 +3,7 @@
     <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
         <servicesKeys>
             <keyDetails collectionKey="ShopifyDrinkItems:createPriceRule" connectorServiceName="ShopifyDrinkItems:createPriceRule"/>
+            <keyDetails collectionKey="ShopifyDrinkItems:generateDiscountCode" connectorServiceName="ShopifyDrinkItems:generateDiscountCode"/>
         </servicesKeys>
     </cloudstreamsCollectionKeys>
 </services>
